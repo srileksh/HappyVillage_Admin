@@ -36,7 +36,7 @@ function WardDatas() {
     );
 
   return (
-    <div className="py-[10px] md:py-[25px] sm:px-[30px] md:px-[40px] lg:px-[80px] xl:px-[100px]">
+    <div className="lg:py-[25px] sm:px-[30px] md:px-[40px] lg:px-[80px] xl:px-[100px]">
       <div>
         <div
           className="flex items-center gap-[10px] text-[#7181ee] cursor-pointer"

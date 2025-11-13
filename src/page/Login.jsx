@@ -41,8 +41,8 @@ function Login() {
   };
 
   return (
-    <div className="bg-[#E9F0FF] w-full min-h-screen py-[35px]">
-      <div className="w-[450px] bg-white mx-auto py-[40px] rounded-2xl px-[30px] shadow-lg">
+    <div className="bg-[#E9F0FF] flex justify-center items-center w-full min-h-screen py-[35px] px-4">
+      <div className=" bg-white mx-auto py-[40px] rounded-2xl px-[30px] shadow-lg">
         <div className="flex flex-col items-center">
           <p className="text-white bg-[#4f46e5] p-5 text-[30px] font-semibold rounded-full">
             <RiGovernmentLine />

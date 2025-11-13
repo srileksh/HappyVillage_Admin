@@ -32,7 +32,7 @@ function HomePage() {
     );
 
   return (
-    <div className="py-[30px]  sm:px-[50px] lg:px-[80px] xl:px-[100px]">
+    <div className=" lg:py-[30px]  sm:px-[50px] lg:px-[80px] xl:px-[100px]">
       <h1 className="text-3xl font-bold">Dashboard</h1>
       <p>Manage your panchayat data and ward information</p>
       <div>

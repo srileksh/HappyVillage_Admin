@@ -11,7 +11,7 @@ function PanchaytCard({ data, onClick }) {
 
 
         <div onClick={onClick} className='w-full border-0 rounded-2xl shadow-2xl pb-[20px] hover:-translate-y-2 duration-300 ease-in-out'>
-            <div className='relative h-[200px]'>
+            <div className='relative h-[250px] bg-cover'>
                 <img className='w-[650px] h-full rounded-t-2xl ' src="aryad.png" alt="" />
                 <p className='absolute bottom-[15px] left-[15px] text-white font-extrabold text-[20px] lg:text-[25px] xl:text-[30px]'>{data.Panchayath}</p>
             </div>

@@ -74,7 +74,7 @@ function Members() {
 
   // ✅ Normal Card View (only when data exists)
   return (
-    <div className="py-[25px] px-[50px] lg:px-[80px] xl:px-[100px] bg-[#f9fafb] min-h-screen">
+    <div className="lg:py-[25px] sm:px-[30px] md:px-[40px] lg:px-[80px] xl:px-[100px] bg-[#f9fafb] min-h-screen">
       {/* Back Button */}
       <div
         className="flex items-center gap-[10px] text-[#7181ee] cursor-pointer"
